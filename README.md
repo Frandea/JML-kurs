@@ -2,6 +2,9 @@
 Jeeves Academy 2017-09-27 o 2016-09-28
 
 ## Inledning
+Välkommen till (grund-)kursen i JML, Jeeves Macro Language.
+Kursen kommer att lära dig att använda, skriva och förstå Jeeves-makron.
+Kursen är grundläggande och för att du ska bli riktigt duktig på begreppen och användningsområdena måste du arbeta praktiskt med makron och/eller delta i en fördjupande kurs.
 
 ## Förutsättningar
 ### Fält att lägga till
